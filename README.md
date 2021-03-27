@@ -4,7 +4,7 @@
 
 ## Live version
 
-Check out and use the live [here](/) 📡
+Check out and use the live [here](https://timerscd.netlify.app/) 📡
 
 ![Preview](./Assets/Preview.jpg)
 
