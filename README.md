@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/Uklizdev/React-Score-Counter?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) <a href="https://www.buymeacoffee.com/ukliz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+![GitHub](https://img.shields.io/github/license/Uklizdev/React-Score-Counter?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) <a href="https://www.buymeacoffee.com/ukliz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> [![Netlify Status](https://api.netlify.com/api/v1/badges/0f8d575c-678b-4493-a371-8f1c31b6a5ce/deploy-status)](https://app.netlify.com/sites/timerscd/deploys)
 
 # Timers site made with Vanilla JS
 
