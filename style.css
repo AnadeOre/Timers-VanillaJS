@@ -56,7 +56,7 @@ input {
 
 .timer__button.right:hover {
 	transform: scale(1.1) rotate(4deg);
-	box-shadow: 0 2px 0 2px rgba(0, 0, 0, 0.205);
+	box-shadow: -2px 2px rgba(0, 0, 0, 0.205);
 }
 
 .display {
