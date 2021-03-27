@@ -50,7 +50,7 @@ function timer(seconds) {
             if (pomo && seconds === 1500) { //25 mins
                 eventEmitter.emit("FINISHED25");
             }
-            if (pomo && seconds === 30) { //5 mins
+            if (pomo && seconds === 300) { //5 mins
                 eventEmitter.emit("FINISHED5")
             }
             if (pomo && seconds === 1800) {//30 mins
@@ -104,9 +104,9 @@ async function startPomodoro() {
             bellSound.play();
         }
         else {
-            timer(1500) //1500
+            timer(1500) //25 mins
             bellSound.play();
-        } //25 mins
+        }
     });
     eventEmitter.on("FINISHED30", () => {
         pomo = false;
